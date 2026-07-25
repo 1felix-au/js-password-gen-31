@@ -1,2 +1,4 @@
-# js-password-gen-31
+# Js Password Gen 31
+
 A secure password generator implemented in JavaScript.
+
