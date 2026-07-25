@@ -8,3 +8,4 @@ function generatePassword(length = 12) {
         password += chars[randomIndex];
     }
     return password;
+}
